@@ -38,3 +38,8 @@ http://www.brain-map.org
 
 ## *My curated database of cell type specific genes
 https://sites.google.com/a/umich.edu/megan-hastings-hagenauer/home/cell-type-analysis
+
+## good resource for finding more about a specific gene
+
+## good resource to search for a gene you want to know more about
+http://www.genecards.org/
