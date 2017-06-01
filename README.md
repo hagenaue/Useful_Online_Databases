@@ -1,6 +1,6 @@
 # Useful_Online_Databases: a list of useful resources for interpreting brain microarray data:
 
-## Gene expression omnibus: A public archive of transcriptomic data (microarray, RNA-Seq, epigenetics...)
+## Gene expression omnibus (GEO): A public archive of transcriptomic data (microarray, RNA-Seq, epigenetics...)
 ### I added example code for downloading from GEO here, but also put it in the folder specific to GEO
 ### Good for comparing our results to previous results:
 #### 1) Can provide validation or confirmation (if the archived experiments address a similar research question)
