@@ -25,6 +25,11 @@ http://www.informatics.jax.org
 ### This website definitely lets you batch query a list of genes for known phenotypes:
 http://www.informatics.jax.org/batch_data.shtml
 
+## *GTEx: Database documenting gene expression vs. genotype in various tissues
+https://www.gtexportal.org/home/
+### Useful for interpreting the genetic variants associated with disease/phenotype in dbGAP or dbVAr databases
+
+
 ## *Allen Brain Atlas (ABA): Publically searchable & downloadable data related to the brain.
 http://www.brain-map.org
 ## Note - each of these datasets has in depth technical documentation located on the website (white papers). I recommend reading the technical documentation if you are going to work with the data.
