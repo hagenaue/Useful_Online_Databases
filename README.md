@@ -24,3 +24,15 @@ http://rgd.mcw.edu/rgdweb/report/gene/main.html?id=1306716
 http://www.informatics.jax.org
 ### This website definitely lets you batch query a list of genes for known phenotypes:
 http://www.informatics.jax.org/batch_data.shtml
+
+## Allen Brain Atlas (ABA): Publically searchable & downloadable data related to the brain.
+http://www.brain-map.org
+## Note - each of these datasets has in depth technical documentation located on the website (white papers). I recommend reading the technical documentation if you are going to work with the data.
+## Includes:
+### In situ hybridization data from mouse and human brains - from adults and across development.
+#### Note: These in situs were run in bulk, so they tend to be noisy (like most big data).
+### Microarray data from across human brains and primate brains (characterizing regional variation)
+### Single-Cell RNA-Seq data
+### Connectivity data (from mice)
+### fMRI data (human)
+
