@@ -29,6 +29,9 @@ http://www.informatics.jax.org/batch_data.shtml
 https://www.gtexportal.org/home/
 ### Useful for interpreting the genetic variants associated with disease/phenotype in dbGAP or dbVAr databases
 
+## *CommonMind Consortium: documenting gene expression vs. genotype in a large sample of DLPFC tissue
+https://www.synapse.org/#!Synapse:syn5585484
+### Useful for interpreting the genetic variants associated with disease/phenotype in dbGAP or dbVAr databases
 
 ## *Allen Brain Atlas (ABA): Publically searchable & downloadable data related to the brain.
 http://www.brain-map.org
