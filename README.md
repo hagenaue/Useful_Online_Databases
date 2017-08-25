@@ -8,6 +8,13 @@
 #### 3) Can help with interpretation (e.g., comparing the influence of GROV in the brain to the influence of cortisol on cultured neurons)
 https://www.ncbi.nlm.nih.gov/geo/
 
+Interesting potential datasets:
+https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS4002
+https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS1921
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45035
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE4035
+
+
 ## *dbSNP & dbVar: A searchable database of genetic variants linked to various diseases or phenotypes
 ### Note: typically, to interpret this information you will need to look up the genes that are thought to have expression regulated by these genetic variants in an eQTL database (see below). 
 https://www.ncbi.nlm.nih.gov/projects/SNP/
