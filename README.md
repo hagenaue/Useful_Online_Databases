@@ -14,6 +14,9 @@ https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS1921
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45035
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE4035
 
+## dbGAP - like GEO, but for sequencing data.
+### You need to be an NIH investigator to get access (because sequencing data can potentially be traced back to individual subjects)
+https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=login
 
 ## *dbSNP & dbVar: A searchable database of genetic variants linked to various diseases or phenotypes
 ### Note: typically, to interpret this information you will need to look up the genes that are thought to have expression regulated by these genetic variants in an eQTL database (see below). 
